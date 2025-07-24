@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Akash 👋
 
-<!--
-**Akash911-prog/Akash911-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+I'm a passionate **developer and student** with a strong curiosity for web development. I love building things from scratch and solving real-world problems with code. My ultimate goal? To launch my own startup app one day!
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- **Proficient:** JavaScript (JS), React, Next.js, Express, Python, Tailwind, HTML, CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Featured Projects
+- **FlashGenix** *(private)* — Web project focused on ai quiz and flashcard generation.
+- **Passnova** *(private)* — Security and authentication made easy.
+
+*Check out my GitHub profile for more cool stuff!*
+
+## 🎯 What I'm Working On
+- Exploring advanced web development frameworks
+- Turning ideas into real, usable products
+- Collaborating and learning from the open source community
+
+## 💡 Hobbies & Fun Facts
+- ♟️ Chess enthusiast — always up for a challenge!
+- 📚 Avid reader — I enjoy diving into tech, fiction, and more.
+
+## 📫 Connect with Me
+<!-- Social links coming soon! -->
+
+---
+
+Thanks for stopping by! Feel free to check out my repositories or reach out when my socials are up. Let's build something amazing together!
