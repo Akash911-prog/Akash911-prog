@@ -22,4 +22,4 @@ Right now, I’m learning, experimenting, and laying the groundwork for what I h
 - 🛐 When stuck, I code harder... and pray smarter
 
 ## 📫 Let’s Connect!
-(instagram)[https://www.instagram.com/akash_0914_/]
+([instagram](https://www.instagram.com/akash_0914_/))
