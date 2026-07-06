@@ -1,25 +1,41 @@
-# Hey, I'm Akash 👋  
-*Turning ideas into code and dreams into apps.*
+# Akash
 
-## 👨‍💻 About Me
-I'm a **curious builder**, lifelong **student**, and someone who feels most alive when creating something meaningful with code. Whether it’s designing a clean UI, solving a tricky backend bug, or figuring out how tech can actually *help* people — I’m in.  
+I am a developer focused on building robust full-stack web applications and designing systems-level programming tools. I treat code as a craft, prioritizing clarity, architectural safety, and deep problem-solving over trend-chasing.
 
-Right now, I’m learning, experimenting, and laying the groundwork for what I hope will be my future **startup**.
+---
 
-## 🚀 Tech I Enjoy
-- **Comfort Zone:** JavaScript, React, Next.js, Express, Python, Tailwind, HTML/CSS  
-- **Always Exploring:** Full-stack workflows, authentication systems, and scalable design  
-- **Love Learning:** Anything that pushes me to grow as a creator and problem solver  
+## Technical Focus
 
-## 🔧 What I’m Working On Now
-- Taking deeper dives into web app frameworks  
-- Building tools that are both useful and beautiful  
-- Exploring open source and sharing what I learn  
+* **Languages:** TypeScript, Python, C
+* **Web Ecosystem:** React, Next.js, Node.js, Express, Tailwind CSS, Database Management
+* **Core Interests:** Backend, Compiler & architecture design, memory/lifecycle safety, and automation tools
 
-## ✨ A Few More Things About Me
-- ♟️ Chess addict — challenge me and I’ll bring my A-game  
-- 📖 Bookworm — from fiction to full-stack dev guides  
-- 🛐 When stuck, I code harder... and pray smarter
+---
 
-## 📫 Let’s Connect!
-([instagram](https://www.instagram.com/akash_0914_/))
+## Current Major Project: Orbit
+
+I am currently designing and building **Orbit**, a language focused entirely on compile-time lifecycle safety. 
+
+> **No value outlives its parent.** This is Orbit's single, non-negotiable guarantee.
+
+### The Problem Orbit Solves
+While modern memory-safe languages ensure values are freed *correctly*, they don't always ensure they are freed at the *right time*, by the *right owner*, or in the *right order*. Resource leaks, dangling handles, and architectural data races are often lifecycle errors rather than simple memory bugs.
+
+### How Orbit Works
+* **Compile-Time Lifecycle Tracking:** Every value has a strict owner, a defined boundary, and a guaranteed cleanup phase.
+* **Strict Boundary Control:** Values cannot cross architectural boundaries without an explicit, tracked transfer of responsibility.
+* **Deterministic Resource Management:** Designed for predictable systems where processes, signals, and resources have fixed, absolute lifetimes.
+
+---
+
+## Beyond the Code
+
+* **Chess:** Always down for a match if you want to test your tactical limits.
+* **Reading:** Halfway through a mix of technical monographs and fiction.
+
+## Let's Connect
+
+If you have a challenging freelance project, an engineering internship opening, or just want to talk language design, reach out:
+
+* **Instagram:** [@akash_0914_](https://www.instagram.com/akash_0914_/)
+* **GitHub:** You are already here—feel free to explore Orbit's codebase below.
